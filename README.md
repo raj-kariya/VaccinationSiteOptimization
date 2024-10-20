@@ -19,7 +19,7 @@ that is, a relatively small area (Municipal level) and a relatively large area
 
 # Results:
 * The project identifies optimal vaccination site locations based on different scenarios (1 to 4 sites), demonstrating how geographic distribution affects vaccination access. Sites located near high population density and COVID-19 cases tend to be the most effective.
-[Roadmap Of San Juan Showing the optimal location of L = 1(top left), L = 2(top right), L=3(bottom left), L= 4(bottom right) vaccination sites](<img width="485" alt="Screenshot 2024-10-21 at 12 50 24 AM" src="https://github.com/user-attachments/assets/b1a1fcb0-f877-4892-910b-5d31e1ef7af4">)
+* Roadmap Of San Juan Showing the optimal location of L = 1(top left), L = 2(top right), L=3(bottom left), L= 4(bottom right) vaccination sites <img width="485" alt="Screenshot 2024-10-21 at 12 50 24 AM" src="https://github.com/user-attachments/assets/b1a1fcb0-f877-4892-910b-5d31e1ef7af4">
 
 # Technologies & Tools:
 * Python (OSMNX, Genetic Algorithms)
