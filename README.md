@@ -19,8 +19,9 @@ that is, a relatively small area (Municipal level) and a relatively large area
 
 # Results:
 * The project identifies optimal vaccination site locations based on different scenarios (1 to 4 sites), demonstrating how geographic distribution affects vaccination access. Sites located near high population density and COVID-19 cases tend to be the most effective.
+* <img width="485" alt="Screenshot 2024-10-21 at 12 50 24 AM" src="https://github.com/user-attachments/assets/b1a1fcb0-f877-4892-910b-5d31e1ef7af4">
 * Roadmap Of San Juan Showing the optimal location of L = 1(top left), L = 2(top right), L=3(bottom left), L= 4(bottom right) vaccination sites.
-  <img width="485" alt="Screenshot 2024-10-21 at 12 50 24 AM" src="https://github.com/user-attachments/assets/b1a1fcb0-f877-4892-910b-5d31e1ef7af4">
+  
 
 # Technologies & Tools:
 * Python (OSMNX, Genetic Algorithms)
@@ -29,8 +30,10 @@ that is, a relatively small area (Municipal level) and a relatively large area
 
 # Conclusion: 
 * The proposed method effectively selects vaccination sites to maximize vaccine accessibility and minimize travel distances, which can be applied to municipalities and larger urban areas.The use of algorithms like Genetic Algorithm makes the solution scalable for larger datasets.
+
 # Future Work:
 * This methodology can be extended to optimize site selection for other public health interventions, such as disease treatment centers or drug distribution sites.
+
 # References
 1) [Optimal selection of COVID-19 vaccination sites in the Philippines at the municipal level](https://peerj.com/articles/14151/)
 2) [A mass vaccination site selection problem: An application of GIS and
